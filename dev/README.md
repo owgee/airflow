@@ -60,7 +60,7 @@ via [Official Apache Download sources](https://downloads.apache.org/)
 Following source releases Apache Airflow release manager also distributes convenience packages:
 
 * PyPI packages released via https://pypi.org/project/apache-airflow/
-* Docker Images released via https://hub.docker.com/repository/docker/apache/airflow
+* Docker Images released via https://hub.docker.com/r/apache/airflow
 
 Those convenience packages are not "official releases" of Apache Airflow, but the users who
 cannot or do not want to build the packages themselves can use them as a convenient way of installing
